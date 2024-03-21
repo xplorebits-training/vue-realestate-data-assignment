@@ -1,0 +1,803 @@
+[
+  {
+    "id": 1,
+    "address": "123 Example St, City1, State1, Country",
+    "price": 310000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1550,
+    "lot_size": 0.55,
+    "type": "Condo",
+    "year_built": 2001,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-02"
+  },
+  {
+    "id": 2,
+    "address": "123 Example St, City2, State2, Country",
+    "price": 320000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1600,
+    "lot_size": 0.6,
+    "type": "Townhouse",
+    "year_built": 2002,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-03"
+  },
+  {
+    "id": 3,
+    "address": "123 Example St, City3, State3, Country",
+    "price": 330000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1650,
+    "lot_size": 0.65,
+    "type": "Single Family Home",
+    "year_built": 2003,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-04"
+  },
+  {
+    "id": 4,
+    "address": "123 Example St, City4, State4, Country",
+    "price": 340000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1700,
+    "lot_size": 0.7,
+    "type": "Condo",
+    "year_built": 2004,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-05"
+  },
+  {
+    "id": 5,
+    "address": "123 Example St, City5, State0, Country",
+    "price": 350000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1750,
+    "lot_size": 0.75,
+    "type": "Townhouse",
+    "year_built": 2005,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-06"
+  },
+  {
+    "id": 6,
+    "address": "123 Example St, City6, State1, Country",
+    "price": 360000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1800,
+    "lot_size": 0.8,
+    "type": "Single Family Home",
+    "year_built": 2006,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-07"
+  },
+  {
+    "id": 7,
+    "address": "123 Example St, City7, State2, Country",
+    "price": 370000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1850,
+    "lot_size": 0.8500000000000001,
+    "type": "Condo",
+    "year_built": 2007,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-08"
+  },
+  {
+    "id": 8,
+    "address": "123 Example St, City8, State3, Country",
+    "price": 380000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1900,
+    "lot_size": 0.9,
+    "type": "Townhouse",
+    "year_built": 2008,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-09"
+  },
+  {
+    "id": 9,
+    "address": "123 Example St, City9, State4, Country",
+    "price": 390000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1950,
+    "lot_size": 0.95,
+    "type": "Single Family Home",
+    "year_built": 2009,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-01"
+  },
+  {
+    "id": 10,
+    "address": "123 Example St, City0, State0, Country",
+    "price": 400000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2000,
+    "lot_size": 1.0,
+    "type": "Condo",
+    "year_built": 2010,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-02"
+  },
+  {
+    "id": 11,
+    "address": "123 Example St, City1, State1, Country",
+    "price": 410000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2050,
+    "lot_size": 1.05,
+    "type": "Townhouse",
+    "year_built": 2011,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-03"
+  },
+  {
+    "id": 12,
+    "address": "123 Example St, City2, State2, Country",
+    "price": 420000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2100,
+    "lot_size": 1.1,
+    "type": "Single Family Home",
+    "year_built": 2012,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-04"
+  },
+  {
+    "id": 13,
+    "address": "123 Example St, City3, State3, Country",
+    "price": 430000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2150,
+    "lot_size": 1.15,
+    "type": "Condo",
+    "year_built": 2013,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-05"
+  },
+  {
+    "id": 14,
+    "address": "123 Example St, City4, State4, Country",
+    "price": 440000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2200,
+    "lot_size": 1.2000000000000002,
+    "type": "Townhouse",
+    "year_built": 2014,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-06"
+  },
+  {
+    "id": 15,
+    "address": "123 Example St, City5, State0, Country",
+    "price": 450000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2250,
+    "lot_size": 1.25,
+    "type": "Single Family Home",
+    "year_built": 2015,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-07"
+  },
+  {
+    "id": 16,
+    "address": "123 Example St, City6, State1, Country",
+    "price": 460000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2300,
+    "lot_size": 1.3,
+    "type": "Condo",
+    "year_built": 2016,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-08"
+  },
+  {
+    "id": 17,
+    "address": "123 Example St, City7, State2, Country",
+    "price": 470000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2350,
+    "lot_size": 1.35,
+    "type": "Townhouse",
+    "year_built": 2017,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-09"
+  },
+  {
+    "id": 18,
+    "address": "123 Example St, City8, State3, Country",
+    "price": 480000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2400,
+    "lot_size": 1.4,
+    "type": "Single Family Home",
+    "year_built": 2018,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-01"
+  },
+  {
+    "id": 19,
+    "address": "123 Example St, City9, State4, Country",
+    "price": 490000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2450,
+    "lot_size": 1.4500000000000002,
+    "type": "Condo",
+    "year_built": 2019,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-02"
+  },
+  {
+    "id": 20,
+    "address": "123 Example St, City0, State0, Country",
+    "price": 500000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2500,
+    "lot_size": 1.5,
+    "type": "Townhouse",
+    "year_built": 2000,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-03"
+  },
+  {
+    "id": 21,
+    "address": "123 Example St, City1, State1, Country",
+    "price": 510000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2550,
+    "lot_size": 1.55,
+    "type": "Single Family Home",
+    "year_built": 2001,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-04"
+  },
+  {
+    "id": 22,
+    "address": "123 Example St, City2, State2, Country",
+    "price": 520000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2600,
+    "lot_size": 1.6,
+    "type": "Condo",
+    "year_built": 2002,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-05"
+  },
+  {
+    "id": 23,
+    "address": "123 Example St, City3, State3, Country",
+    "price": 530000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2650,
+    "lot_size": 1.6500000000000001,
+    "type": "Townhouse",
+    "year_built": 2003,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-06"
+  },
+  {
+    "id": 24,
+    "address": "123 Example St, City4, State4, Country",
+    "price": 540000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2700,
+    "lot_size": 1.7000000000000002,
+    "type": "Single Family Home",
+    "year_built": 2004,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-07"
+  },
+  {
+    "id": 25,
+    "address": "123 Example St, City5, State0, Country",
+    "price": 550000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2750,
+    "lot_size": 1.75,
+    "type": "Condo",
+    "year_built": 2005,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-08"
+  },
+  {
+    "id": 26,
+    "address": "123 Example St, City6, State1, Country",
+    "price": 560000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2800,
+    "lot_size": 1.8,
+    "type": "Townhouse",
+    "year_built": 2006,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-09"
+  },
+  {
+    "id": 27,
+    "address": "123 Example St, City7, State2, Country",
+    "price": 570000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2850,
+    "lot_size": 1.85,
+    "type": "Single Family Home",
+    "year_built": 2007,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-01"
+  },
+  {
+    "id": 28,
+    "address": "123 Example St, City8, State3, Country",
+    "price": 580000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2900,
+    "lot_size": 1.9000000000000001,
+    "type": "Condo",
+    "year_built": 2008,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-02"
+  },
+  {
+    "id": 29,
+    "address": "123 Example St, City9, State4, Country",
+    "price": 590000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2950,
+    "lot_size": 1.9500000000000002,
+    "type": "Townhouse",
+    "year_built": 2009,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-03"
+  },
+  {
+    "id": 30,
+    "address": "123 Example St, City0, State0, Country",
+    "price": 600000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3000,
+    "lot_size": 2.0,
+    "type": "Single Family Home",
+    "year_built": 2010,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-04"
+  },
+  {
+    "id": 31,
+    "address": "123 Example St, City1, State1, Country",
+    "price": 610000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3050,
+    "lot_size": 2.05,
+    "type": "Condo",
+    "year_built": 2011,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-05"
+  },
+  {
+    "id": 32,
+    "address": "123 Example St, City2, State2, Country",
+    "price": 620000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3100,
+    "lot_size": 2.1,
+    "type": "Townhouse",
+    "year_built": 2012,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-06"
+  },
+  {
+    "id": 33,
+    "address": "123 Example St, City3, State3, Country",
+    "price": 630000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3150,
+    "lot_size": 2.1500000000000004,
+    "type": "Single Family Home",
+    "year_built": 2013,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-07"
+  },
+  {
+    "id": 34,
+    "address": "123 Example St, City4, State4, Country",
+    "price": 640000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3200,
+    "lot_size": 2.2,
+    "type": "Condo",
+    "year_built": 2014,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-08"
+  },
+  {
+    "id": 35,
+    "address": "123 Example St, City5, State0, Country",
+    "price": 650000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3250,
+    "lot_size": 2.25,
+    "type": "Townhouse",
+    "year_built": 2015,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-09"
+  },
+  {
+    "id": 36,
+    "address": "123 Example St, City6, State1, Country",
+    "price": 660000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3300,
+    "lot_size": 2.3,
+    "type": "Single Family Home",
+    "year_built": 2016,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-01"
+  },
+  {
+    "id": 37,
+    "address": "123 Example St, City7, State2, Country",
+    "price": 670000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3350,
+    "lot_size": 2.35,
+    "type": "Condo",
+    "year_built": 2017,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-02"
+  },
+  {
+    "id": 38,
+    "address": "123 Example St, City8, State3, Country",
+    "price": 680000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3400,
+    "lot_size": 2.4000000000000004,
+    "type": "Townhouse",
+    "year_built": 2018,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-03"
+  },
+  {
+    "id": 39,
+    "address": "123 Example St, City9, State4, Country",
+    "price": 690000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3450,
+    "lot_size": 2.45,
+    "type": "Single Family Home",
+    "year_built": 2019,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-04"
+  },
+  {
+    "id": 40,
+    "address": "123 Example St, City0, State0, Country",
+    "price": 700000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3500,
+    "lot_size": 2.5,
+    "type": "Condo",
+    "year_built": 2000,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-05"
+  },
+  {
+    "id": 41,
+    "address": "123 Example St, City1, State1, Country",
+    "price": 710000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3550,
+    "lot_size": 2.5500000000000003,
+    "type": "Townhouse",
+    "year_built": 2001,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-06"
+  },
+  {
+    "id": 42,
+    "address": "123 Example St, City2, State2, Country",
+    "price": 720000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3600,
+    "lot_size": 2.6,
+    "type": "Single Family Home",
+    "year_built": 2002,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-07"
+  },
+  {
+    "id": 43,
+    "address": "123 Example St, City3, State3, Country",
+    "price": 730000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3650,
+    "lot_size": 2.65,
+    "type": "Condo",
+    "year_built": 2003,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-08"
+  },
+  {
+    "id": 44,
+    "address": "123 Example St, City4, State4, Country",
+    "price": 740000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3700,
+    "lot_size": 2.7,
+    "type": "Townhouse",
+    "year_built": 2004,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-09"
+  },
+  {
+    "id": 45,
+    "address": "123 Example St, City5, State0, Country",
+    "price": 750000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3750,
+    "lot_size": 2.75,
+    "type": "Single Family Home",
+    "year_built": 2005,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-01"
+  },
+  {
+    "id": 46,
+    "address": "123 Example St, City6, State1, Country",
+    "price": 760000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3800,
+    "lot_size": 2.8000000000000003,
+    "type": "Condo",
+    "year_built": 2006,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-02"
+  },
+  {
+    "id": 47,
+    "address": "123 Example St, City7, State2, Country",
+    "price": 770000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3850,
+    "lot_size": 2.85,
+    "type": "Townhouse",
+    "year_built": 2007,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-03"
+  },
+  {
+    "id": 48,
+    "address": "123 Example St, City8, State3, Country",
+    "price": 780000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3900,
+    "lot_size": 2.9000000000000004,
+    "type": "Single Family Home",
+    "year_built": 2008,
+    "features": [
+      "Garage"
+    ],
+    "listing_date": "2024-03-04"
+  },
+  {
+    "id": 49,
+    "address": "123 Example St, City9, State4, Country",
+    "price": 790000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3950,
+    "lot_size": 2.95,
+    "type": "Condo",
+    "year_built": 2009,
+    "features": [
+      "Garage",
+      "Fireplace"
+    ],
+    "listing_date": "2024-03-05"
+  },
+  {
+    "id": 50,
+    "address": "123 Example St, City0, State0, Country",
+    "price": 800000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 4000,
+    "lot_size": 3.0,
+    "type": "Townhouse",
+    "year_built": 2010,
+    "features": [
+      "Garage",
+      "Fireplace",
+      "Pool"
+    ],
+    "listing_date": "2024-03-06"
+  }
+]
